@@ -1,4 +1,4 @@
-#GIMP Einführung
+# GIMP Einführung
 
 Gimp ist eine Plattform die für Foto- und Bilbearbeitungsprogramm steht. 
 Der Name GIMP steht für GNU Image Manipulation Program was im Deutschen ganz einfach Bildbearbeitungsprogramm heisst. GIMP eignet sich für eine Vielzahl von Aufgaben der Bildbearbeitung, wie das Retuschieren von Fotos, Bildkomposition und erstellung.
