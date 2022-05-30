@@ -1,13 +1,12 @@
-# Lernjournal
-Datum: 16. Mai
-Wir entschieden uns für Gimp eine bildbearbeitungs App
-Erster Schritt war im github ein neues repository zu erstellen, was wir mit der hilfe von Herr Calisto und der Anleitung durchführen konnten.
+#GIMP Einführung
 
-<b></b>
-Datum: 23. Mai
-<b></b>
-Mit der Word-Vorlage ... beschrieben wir unsere aufgaben und was wir erledigen müssen. Haben Termine für einzelne Punkte gesetzt, Ziele aufgeschrieben und es Herrn Calisto vorgestellt.
-Er hatte einige inputs, die wir später umsetzten konnten.
+Gimp ist eine Plattform die für Foto- und Bilbearbeitungsprogramm steht. 
+Der Name GIMP steht für GNU Image Manipulation Program was im Deutschen ganz einfach Bildbearbeitungsprogramm heisst. GIMP eignet sich für eine Vielzahl von Aufgaben der Bildbearbeitung, wie das Retuschieren von Fotos, Bildkomposition und erstellung.
 
-Nebenbei erstellte Sam ihr Repository, da sie letze woche nicht im unterricht anwesend war und somit einige infos verpasst hat.
+<br>
+Gimp kann für ein einfaches Malprogramm eingesetzt waerden, als für Experten taugliches Program zur Fotoretusche, als Online-Stapelverarbeitungssystem, als Rednderer für die Massenproduktion, als Formatumwandler etc.
+
+<br>
+Eine grosse Stärke von GIMP  ist die Erweiterbarkeit. Es wurde so entwurfen um die verschiedenste Erweiterungen fast beliebige neue Funktionen erhalten kann. 
+Eine Schnittstelle für Skripte erlaubt es, einfache wie komplexe Probleme durch kleine Programme zu lösen.
 
