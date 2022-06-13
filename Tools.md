@@ -1,4 +1,6 @@
-Bewegen
+# Bewegen
+Mit dem Verschieben-Werkzeug können Sie, wie der Name schon sagt, einzelne Ebenen und Objekte auf Ihrer Leinwand verschieben. Sie können wählen, ob Sie sich nach Ebenen, Auswahlen oder Pfaden bewegen möchten. Es ist ein ziemlich verbreitetes Werkzeug, das Sie beim Erstellen von Designs häufig verwenden, aber vielleicht nicht so oft, wenn Sie nur Fotos nachbessern.
+
 # Ausrichtung
 
 Mit dem Ausrichtungswerkzeug können Sie verschiedene Ebenen in Ihrem Arbeitsbereich anordnen und neu positionieren. Sie können sie gemäß ihren Kanten oder Mittelpunkten auf beiden Achsen ausrichten, und Sie können dies alles relativ zum Bild, zur aktiven Ebene, zur Auswahl oder zu beliebigen anderen Zahlenvorgaben tun.
