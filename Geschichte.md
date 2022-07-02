@@ -71,6 +71,13 @@ Es setzt sich aus den drei Farben Cyan, Magenta und Gelb sowie der Key Coulour S
 
 ## Automatisierte Bildbearbeitung durch Skripe
 
+Alle Vorgänge in GIMP können durch sogenannte GIMP-Skripte automatisiert werden. 
+Diese Art von Programmen kann durch den eingebauten (Skript-Fu) sowie über eine externe Anbindung von Perl, Python oder Tcl verarbeitet werden.
+
+Die unterstützung das von Ruby geschrieben GIMP-Skripten befindet soch noch in einem experimentellen Stadium.
+
+Skripte und Plug-ins für GIMP können interaktiv ausgeführt werden, das heisst ohne Interaktion eines Benutzers. Wiederkehrende (auch komplexe) Bildbearbeitungsvorgänge können so automatisiert werden. Grafiken für eine Webseite können beispielsweise direkt über Skripte erzeugt werden, man kann bei einer grossen Anzahl an Bilddateien eine Farbkorrektur vornehmen oder das Grafikformat ändern. Hinweise zu Verwendung solcher Skripte finden sich GIMP-Wikibook.
+
 ## Gimp ML
 
 GimpML ist ein Plugin für Filter mit Maschinellem Lernen für GIMP 2.10.
