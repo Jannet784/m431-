@@ -44,21 +44,26 @@ Die aufwendige Migration auf GEGL – überwiegend durch nur eine Person umgeset
 
 ## Überblick
 
+Die Bearbeitungsfunktionen sind über Werkzeugleisten, Menüs und dauerhaft eingeblendete Paletten (in Gimp "Dialog" genannt) zu erreichen. Diese enthalten sogenannte Filter für grafische Effekte, zudem Pinsel sowie Umwandlungs-, Auswahl-, Ebenen und Maskierungsfunktionen. Zum Standardumfang gehören eine Reihe von Pinseln,zudem sind alle Kantenschärfe und Deckung einstellbar. 
+
+Andere können als Plugin installiert oder selbst erstellt werden, auch Photoshop-Pinsel können genutzt werden. Der Standardumfang von GIMP kann mit Erweiterungen und weiteren Pinseln von Drittanbietern erweitert werden. 
+Weiterhin hat Gimp eine druckempfindliche Sprühdose für Grafiktabletts. Gimp unterstützt mehr als dreissig Dateiformate.
+
 ## Farbunterstützung
 
 GIMP hat Farbpaletten für RGB, HSV, CMYK, ein Farbrad sowie Funktionen, um Farben aus einem Bild zu entnehmen (Pipette). Auch wenn das Programm eine CMYK-Palette anbietet, arbeitet es immer in RGB mit einer Farbtiefe bis 32 Bit. 
 
-###### RGB
+#### RGB
 RGB ist der Farbraum, der mittels der Farben Rot, Grün und Blau gebildet wird. 
 Dieser wird bei Monitoren, Fernseher oder Smartphones benutzt. 
 Die Farben Rot, Grün und Blau werden als Lichtfarben bezeichnet und sind nicht im Druck wiederzugeben, da das Mischen der Lichtfarben auf Druckstoffen nicht möglich ist.
 
-###### HSV
+#### HSV
 
 Der HSV-Farbraum ist der Farbraum etlicher Farbmodelle.
 Hier ist der Farbort einer Farbe definiert mit Hilfe der drei Koordinaten.
 
-###### CMYK
+#### CMYK
 
 DMYK-Farbraum ist für den Druck
 
@@ -67,6 +72,10 @@ Es setzt sich aus den drei Farben Cyan, Magenta und Gelb sowie der Key Coulour S
 ## Automatisierte Bildbearbeitung durch Skripe
 
 ## Gimp ML
+
+GimpML ist ein Plugin für Filter mit Maschinellem Lernen für GIMP 2.10.
+
+* Maschinelles Lernen ist ein Oberbegriff für die „künstliche“ Generierung von Wissen aus Erfahrung
 
 
 # Eingestellte Modifikationen
