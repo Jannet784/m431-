@@ -1,6 +1,6 @@
 # 1 Geschichte
 
-## Entstehung und Verbreitung
+### Entstehung und Verbreitung
 
 Die erste öffentliche Testversion von GIMP wurde von Peter Mattis am 21. November 1995 in der Newsgroup angekündigt. Zusammen mit Spencer Kimball hatte er das Programm als Studienarbeit entwickelt. 
 
@@ -13,7 +13,7 @@ Durch Linux erlangte GIMP eine grosse Verbreitung und estabilisierte sich dort i
 
 Nach veröffentlichung von Ubuntu 9.10 beschlossen, in Ubuntu 10.04 GIMP nicht mehr vorzuinstallieren, da es "zu kompliziert" sei, es zu viel Platz auf der Installation-CD benötige und bereits F-Sport mitgeliefert werde. Ausserdem könne man es weiterhin über die Software-Repository nachladen.
 
-## Versionen
+### Versionen
 
 |     Version     |     Erscheinungsdatum     |     Anmerkung     |
 | --------------- | ------------------------- | ----------------- |
@@ -33,7 +33,7 @@ Nach veröffentlichung von Ubuntu 9.10 beschlossen, in Ubuntu 10.04 GIMP nicht m
 |     2.10.30     |     21. Dez. 2021         | Diverse Fehler wurden behoben, verbesserte PSD Unterstützung und Plugin Anpassungen. |
 |     2.99.10     |     25. Feb. 2022         | neues Plugin-API, verbesserte Unterstützung von Grafik-Tablets, vereinfachtes Theming, Multi-Layer-Support. |
 
-## Umstellung auf GEGL
+### Umstellung auf GEGL
 
 Mit der Version 2.6 das am 1. Oktober 2008 erschien wurde der Umstieg vom bisherigen Grafik-Kernel auf die neue unabhängige Bibliothek GEGL (Generic Graphics Library begonnen. Zum Freigabetermin waren noch nicht alle Funktionen portiert, sodass die erhoffte Unterstützung höherer Farbtiefen fehlte. Diese folgte in Version 2. 10, welche vollständig auf GEGL aufbat. GEGL arbeitet und unterstütz weitere Dateiformate von Digitalkamera. 
 
@@ -42,14 +42,14 @@ Die aufwendige Migration auf GEGL – überwiegend durch nur eine Person umgeset
 
 # Funktionsumfang
 
-## Überblick
+### Überblick
 
 Die Bearbeitungsfunktionen sind über Werkzeugleisten, Menüs und dauerhaft eingeblendete Paletten (in Gimp "Dialog" genannt) zu erreichen. Diese enthalten sogenannte Filter für grafische Effekte, zudem Pinsel sowie Umwandlungs-, Auswahl-, Ebenen und Maskierungsfunktionen. Zum Standardumfang gehören eine Reihe von Pinseln,zudem sind alle Kantenschärfe und Deckung einstellbar. 
 
 Andere können als Plugin installiert oder selbst erstellt werden, auch Photoshop-Pinsel können genutzt werden. Der Standardumfang von GIMP kann mit Erweiterungen und weiteren Pinseln von Drittanbietern erweitert werden. 
 Weiterhin hat Gimp eine druckempfindliche Sprühdose für Grafiktabletts. Gimp unterstützt mehr als dreissig Dateiformate.
 
-## Farbunterstützung
+### Farbunterstützung
 
 GIMP hat Farbpaletten für RGB, HSV, CMYK, ein Farbrad sowie Funktionen, um Farben aus einem Bild zu entnehmen (Pipette). Auch wenn das Programm eine CMYK-Palette anbietet, arbeitet es immer in RGB mit einer Farbtiefe bis 32 Bit. 
 
@@ -86,3 +86,16 @@ GimpML ist ein Plugin für Filter mit Maschinellem Lernen für GIMP 2.10.
 
 
 # Eingestellte Modifikationen
+
+#### CinePaint
+
+Unter dem Namen CinePaint (früher Film Gimp) ist ein professioneller Ableger des Programmes entstanden, der sich durch größere Farbtiefen und ein Farbmanagement auszeichnet
+
+#### GIMPshop
+
+GIMPshop war eine Modifikation des GIMP die in Erscheinungsbild und Bedienung Adobe Photoshop angeglichen war. Der ursprüngliche Entwickler Scott Moschella wollte damit langjährigen Nutzern des kommerziellen Photoshops den Umstieg erleichtern.
+
+#### GimPhoto
+
+In der Tradition von GIMPshop steht GimPhoto, das ebenfalls mit einer Photoshop-ähnlicheren Bedienung aufwartete und über die kleine Anwendung GimPad noch mehr an individuelle Bedürfniss im Erscheinungsbild angepasst werden konnte.
+
