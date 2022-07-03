@@ -1,4 +1,4 @@
-# 39 Tools auf GIMP anwendbar
+# 39 Tools in GIMP anwendbar
 
 ## Bewegen
 Mit dem Verschieben-Werkzeug können Sie, wie der Name schon sagt, einzelne Ebenen und Objekte auf Ihrer Leinwand verschieben. Sie können wählen, ob Sie sich nach Ebenen, Auswahlen oder Pfaden bewegen möchten. Es ist ein ziemlich verbreitetes Werkzeug, das Sie beim Erstellen von Designs häufig verwenden, aber vielleicht nicht so oft, wenn Sie nur Fotos nachbessern.
@@ -161,11 +161,158 @@ Schließlich wird das Zoom-Werkzeug zum Vergrößern und Verkleinern Ihres Bilde
 
 
 
+# 58 Tools in Photoshop anwendbar
+
+## Verschieben Tool
+
+Wird für die Auswahl, das Verschieben von Ebenen und Hilfslinien in der Software verwendet.
+
+## Zeichenflächen Tool
+
+Das Tool ist zum ersten Mal in der neuen Version von Photoshop brauchbar (2022). Mit dem Tool kann man mehrere Web-Layouts für verschiedene Geräte oder Bildschirmgrößen erstellen.
+
+## Elliptisches Auswahltool
+
+Wird verwendet um elliptische Formen auszuwählen. Wenn man während des auswählens die rechte Umschalttaste drückt, kann man einen perfekten Kreis auswählen.
+
+## Rechteckiges Auswahltool
+
+Verwenden man dieses Tool, wählt man ein Rechteck aus. Haltet man während des Auswahlprozesses die rechte Umschalttaste gedrückt, zieht man ein perfektes Reckteck.
+
+## Lasso Tool
+
+Mit diesem Tool kann der Benutzer eine Form nach Wunsch auswählen.
+
+## Polygon Lasso Tool
+
+Klickt man mit diesem Tool um ein Objekt herum, umgibt man es mit einem polygonalen Auswahl-Umriss.
+
+## Magnetisches Lasso Tool
+
+Heftet sich an den Rand eines ungenau ausgewählten Objektes.
+
+## Schnellauswahl Tool
+
+Dieses Tool lässt dich das Objekt einfach auswählen während der Benutzung des Pinsel-Tools. Für eine präzisere Auswahl kann man in der Optionen-Leiste "Auto Enhance" einschalten.
+
+## Zauberstab Tool
+
+Wähle mit dem Zauberstab einfach alle ähnlichen Farben mit einem Klick aus!
+
+## Lineal Tool
+
+Verwende den Massstab um Distanzen, Winkel und Orte zu messen.
+
+## Hinweis/Notiz Tool
+
+Mit diesem Tool kann man Notizen und Kommentare im Bild für sich selbst hinterlassen. Es lässt sich gut als Reminder oder als ToDo Liste benutzen, damit man nicht vergisst, was man noch machen muss oder auch wo man mit der Bearbeitung stehengeblieben ist.
+
+## Pipetten-Tool
+
+Lässt dich eine bestimmte Farbe im Bild herauspicken, um mit dieser danach weiterzuarbeiten.
+
+## 3D-Material Pipetten-Tool
+
+Lässt dich Formen oder Muster aus 3D Modellen herauspicken.
+
+## Zählen Tool
+
+Mit diesem Tool kann man manuell Objekte im Bild zählen.
+
+## Freistellungs-Tool
+
+Schneide ganz einfach dein Bild zurecht und entferne somit ungewollte Teile des Bildes.
+
+## Perspektivisches Freistellungs-Tool
+
+Verwende dieses Tool um dein Bild zuzuschneiden und Verzerrungen oder andere Perspektiv-Probleme zu beheben
+
+## Schneide-Tool
+
+Du kannst mit diesem Tool dein Bild oder Layout in mehrere Teile aufteilen. Die Teile deines Bildes kannst du separat exportieren und optimieren.
+
+## Schneide Auswahl-Tool
+
+Mit diesem Werkzeug wählst du individuell die Teile aus, welche du vorhin mit dem Schneide-Tool geschnitten hast.
+
+## Bereichsreparatur-Tool
 
 
 
+## Healing Brush-Tool
 
+## Patch-Tool
 
+## Rote-Augen Tool
 
+## Content aware move Tool
 
+## Pinsel Tool
 
+## Stift Tool
+
+## Pinselmix Tool
+
+## Farbe Ändern Tool
+
+## Klon-Stempel Tool
+
+## Muster-Stempel Tool
+
+## History-Pinsel Tool
+
+## Art History-Pinsel Tool
+
+## Radiergummi Tool
+
+## Hintergrund Radiergummi Tool
+
+## Magischer Radiergummi Tool
+
+## Verlaufs-Tool
+
+## Farbeimer Tool
+
+## 3D-Material Drop Tool
+
+## Unschärfe Tool
+
+## Schärfen Tool
+
+## Burn Tool
+
+## Wisch Tool
+
+## Dodge Tool
+
+## Schwamm Tool
+
+## Freiform Stift Tool
+
+## Ankerpunkt Tool
+
+## Punktkonverter Tool
+
+## Text Tool (Horizontal & Vertikal)
+
+## Pfadauswahl Tool
+
+## Direktauswahl Tool
+
+## Rechteck Tool
+
+## Rundes Rechteck Tool
+
+## Ellipsen Tool
+
+## Polygon Tool
+
+## Linien Tool
+
+## Benutzerdefinierte Form Tool
+
+## Zoom Tool
+
+## Ansicht Drehen Tool
+
+## Hand Tool
