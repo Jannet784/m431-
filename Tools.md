@@ -237,82 +237,145 @@ Mit diesem Werkzeug wählst du individuell die Teile aus, welche du vorhin mit d
 
 ## Bereichsreparatur-Tool
 
-
+Das Bereichsreparatur-Tool wird normalerweise für kleine Bereiche verwendet, welche kleine Fehler und Unschönheiten vorweisen.
 
 ## Healing Brush-Tool
 
+Das Healing Brush-Tool wird für grosse Beriche verwendet, auf welchen beispielsweise unerwünschte Personen zu sehen sind und entfernt werden wollen.
+
 ## Patch-Tool
+
+Lässt dich eine freie Form auswählen und in dieser Unschönheiten beheben.
 
 ## Rote-Augen Tool
 
+Entfernt sehr zuverlässig die "rote Pupille" auf einem Gesichtsbild einer Person oder eines Tieres.
+
 ## Content aware move Tool
+
+Mit diesem Tool kannst du ein Stück eines Bildes auswählen und an einen anderen Ort im Bild verschieben. Dabei klont es dieses Stück immer wieder.
 
 ## Pinsel Tool
 
+Das hauptsächliche Zeichnungswerkzeug von Photoshop. Es wird für das malen und maskieren gebraucht. Das Tool lässt sich um eine Vielzahl an verschiedenen Pinseln/Mustern erweitern, welche man einfach finden und downloaden kann im Internet.
+
 ## Stift Tool
+
+Das Stift Tool ist ein weiteres Zeichnungswerkzeug, mit dem man mit harten Kanten zeichnen kann. Damit zeichnest du extrem präzise Linien, Auswahlen oder Formen.
 
 ## Pinselmix Tool
 
+Dieses Tool lässt dich Elemente aus realen Kunstwerken simulieren, beispielsweise das mischen von verschiedenen Farben oder Texturen.
+
 ## Farbe Ändern Tool
+
+Mit diesem Tool kannst du ganz einfach die Farbe eines ausgewählten Objekts ändern in eine andere beliebige Farbe.
 
 ## Klon-Stempel Tool
 
+Den Klon-Stempel benutzt man primär als Retouchierungswerkzeug. Es kann Pixel von einem Ort (Areal) an einen zweiten Kopieren und überdecken.
+
 ## Muster-Stempel Tool
+
+Du kannst dieses Tool verwenden, um ein Muster in deinem Bild zu malen.
 
 ## History-Pinsel Tool
 
+Mit dem History-Pinsel Tool kannst du einen vorherigen Schritt nochmals malen in deinem jetzigen Zustand des Bildes.
+
 ## Art History-Pinsel Tool
+
+Mit dem Art History-Pinsel Tool kannst du einen vorherigen Schritt nochmals malen in deinem jetzigen Zustand des Bildes.
+Der Unterschied zum History-Pinsel Tool ist aber, dass dieses Tool auch stilisierte Pinsel benutzt.
 
 ## Radiergummi Tool
 
+Mit dem Radiergummi kannst du Pixel dauerhaft löschen.
+
 ## Hintergrund Radiergummi Tool
+
+Dieses Tool löscht ähnliche Farbenareale, wenn du über diese darüberfährst.
 
 ## Magischer Radiergummi Tool
 
+Löscht ähnlich gefärbte Pixel mit einem Klick.
+
 ## Verlaufs-Tool
+
+Lässt dich einen Farbverlauf von Farbe A nach Farbe B generieren.
 
 ## Farbeimer Tool
 
+Mit dem Farbeimer kannst du ein ausgewähltes Objekt mit einem Klick mit einer (1) Farbe einfärben.
+
 ## 3D-Material Drop Tool
+
+Lässt dich ein 3D Objekt von einem Ort zu einem zweiten bewegen und platzieren.
 
 ## Unschärfe Tool
 
+Benutze das Unschärfe Tool um ein Objekt/eine Fläche im Bild unscharf zu machen.
+
 ## Schärfen Tool
+
+Schärft ein Objekt oder eine Fläche im Bild
 
 ## Burn Tool
 
+Das Burn Tool lässt dich Flächen schwärzen und Schatten von Objekten generieren.
+
 ## Wisch Tool
+
+Mit dem Wisch Tool kannst du Farben und Pinselstriche in verschiedenen Farben mischen und verschmieren. Dieses Werkzeug wird auch benutzt, um Fingermalerei zu kreieren.
 
 ## Dodge Tool
 
+Mit dem Dodge Tool kannst du einzelne Flächen aufhellen. Es ist sehr gut einsetzbar auch für Licht-Effekte in Bildern.
+
 ## Schwamm Tool
+
+Brauche dieses Werkzeug um die Sättigung von Farben zu erhöhen oder zu verringern. Dieses Tool ist das Richtige dafür.
 
 ## Freiform Stift Tool
 
-## Ankerpunkt Tool
-
-## Punktkonverter Tool
+Das Freiform Stift Werkzeug lässt dich freihändige Linien und Formen zeichnen.
 
 ## Text Tool (Horizontal & Vertikal)
 
-## Pfadauswahl Tool
-
-## Direktauswahl Tool
+Mit diesem Tool kannst du Text horizontal und oder vertikal auf einem Bild einfügen und umherziehen.
 
 ## Rechteck Tool
 
+Man kann mit diesem Werkzeug ein Rechteck zeichnen. Wenn du beim Zeichnen die Umschalttaste gedrückt hälst, zeichnest du ein perfektes Quadrat.
+
 ## Rundes Rechteck Tool
+
+Zeichnet ein Rechteck mit runden Kanten. Der Umschalttasten-Trick geht auch hier wieder.
 
 ## Ellipsen Tool
 
+Damit kannst du eine Ellipse zeichnen. Drückst du die Umschalttaste während des zeichnens, zeichnest du einen perfekten Kreis.
+
 ## Polygon Tool
+
+Mit dem Polygon-Tool zeichnest du eine polygone Figur.
 
 ## Linien Tool
 
+Mit dem Linien Werkzeug zeichnest du gerade Linien.
+
 ## Benutzerdefinierte Form Tool
+
+Wähle benutzerdefinierte Formen aus und erstelle sie selbst mit diesem Tool. Es gibt Auch Formen, die für Photoshop konstruiert wurden. Diese muss man nur herunterladen und in Photoshop vor der Verwendung installieren.
 
 ## Zoom Tool
 
+Damit kannst du die Ansicht im Bild vergrössern und verkleinern. Zum Vergrössern musst du ganz einfach klicken, für das Verkleinern drückst du zusätzlich noch die ALT-Taste.
+
 ## Ansicht Drehen Tool
 
+Verwende dieses Werkzeug um deine Leinwand oder dein Bild zu drehen und daran weiterzuarbeiten.
+
 ## Hand Tool
+
+Mit diesem Werkzeug kannst du ein Bild, ein Layer oder eine ausgewählte Fläche anklicken und auf dem Bildschirm umherziehen.
