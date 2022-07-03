@@ -161,6 +161,8 @@ Schließlich wird das Zoom-Werkzeug zum Vergrößern und Verkleinern Ihres Bilde
 
 
 
+
+
 # 58 Tools in Photoshop anwendbar
 
 ## Verschieben Tool
