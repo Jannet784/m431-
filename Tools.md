@@ -1,67 +1,68 @@
 # 39 Tools in GIMP anwendbar
 
 ## Bewegen
-Mit dem Verschieben-Werkzeug können Sie, wie der Name schon sagt, einzelne Ebenen und Objekte auf Ihrer Leinwand verschieben. Sie können wählen, ob Sie sich nach Ebenen, Auswahlen oder Pfaden bewegen möchten. Es ist ein ziemlich verbreitetes Werkzeug, das Sie beim Erstellen von Designs häufig verwenden, aber vielleicht nicht so oft, wenn Sie nur Fotos nachbessern.
+Mit dem Verschieben-Werkzeug kann man einzelne Ebenen und Objekte auf deiner Leinwand verschieben. Man kann sie wählen, ob Sie sich nach Ebenen, Auswahlen oder Pfaden bewegen möchten. Es ist ein ziemlich verbreitetes Werkzeug, das man beim Erstellen von Designs häufig verwenden, aber vielleicht nicht so oft, wenn man nur Fotos nachbessern.
 
 ## Ausrichtung
 
-Mit dem Ausrichtungswerkzeug können Sie verschiedene Ebenen in Ihrem Arbeitsbereich anordnen und neu positionieren. Sie können sie gemäß ihren Kanten oder Mittelpunkten auf beiden Achsen ausrichten, und Sie können dies alles relativ zum Bild, zur aktiven Ebene, zur Auswahl oder zu beliebigen anderen Zahlenvorgaben tun.
-Rechteck auswählen
-Das Rechteck-Auswahlwerkzeug wird verwendet, um Auswahlen auf Ihrer Leinwand in Form eines vierseitigen Objekts oder eines Rechtecks zu erstellen. Das Tool verfügt über viele nützliche Einstellungen, wie die Möglichkeit, rechteckige Auswahlen mit abgerundeten Ecken, gefiederten Kanten und sogar mit Führungslinien für mehr Präzision zu erstellen. Ihre Auswahl kann dann für eine Vielzahl unterschiedlicher Aufgaben verwendet werden, z. B. zum Füllen mit Farbe, zum Löschen von Bereichen und zum Zuschneiden von Bildabschnitten.
+Mit dem Ausrichtungswerkzeug kann man verschiedene Ebenen in deinem Arbeitsbereich anordnen und neu positionieren. Man kann sie gemäß ihren Kanten oder Mittelpunkten auf beiden Achsen ausrichten, und du kannst dies alles relativ zum Bild, zur aktiven Ebene, zur Auswahl oder zu beliebigen anderen Zahlenvorgaben tun.
+
+## Rechteck auswählen
+Das Rechteck-Auswahlwerkzeug wird verwendet, um Auswahlen auf deiner Leinwand in Form eines vierseitigen Objekts oder eines Rechtecks zu erstellen. Das Tool verfügt über viele nützliche Einstellungen, wie die Möglichkeit, rechteckige Auswahlen mit abgerundeten Ecken, gefiederten Kanten und sogar mit Führungslinien für mehr Präzision zu erstellen. Die Auswahl kann dann für eine Vielzahl unterschiedlicher Aufgaben verwendet werden, z. B. zum Füllen mit Farbe, zum Löschen von Bereichen und zum Zuschneiden von Bildabschnitten.
 
 ## Ellipse
-Das Ellipsen-Auswahlwerkzeug funktioniert ähnlich wie das Rechteck-Auswahlwerkzeug, nur dass Sie damit abgerundete Auswahlen oder eine Ellipse erstellen können. Es hat auch die gleichen nützlichen Funktionen eingebaut, wie z. B. die Möglichkeit, die Ränder Ihrer Auswahl auszuweichen und ein festes Seitenverhältnis zu wählen, wenn Sie möchten.
+Das Ellipsen-Auswahlwerkzeug funktioniert ähnlich wie das Rechteck-Auswahlwerkzeug, nur dass man damit abgerundete Auswahlen oder eine Ellipse erstellen können. Es hat auch die gleichen nützlichen Funktionen eingebaut, wie z. B. die Möglichkeit, die Ränder deiner Auswahl auszuweichen und ein festes Seitenverhältnis zu wählen, wenn man möchte.
 
 ## Frei
-Mit dem Free Select Tool können Sie basierend auf Ihrer eigenen Handbewegung eine Auswahl auf Ihrem Bild treffen. Sie können klicken, um einzelne Punkte zu erstellen, die durch gerade Linien verbunden sind, oder einfach klicken und ziehen, um Ihre eigene Auswahl zu zeichnen.
+Mit dem Free Select Tool kann man basierend auf deiner eigenen Handbewegung eine Auswahl auf deinem Bild treffen. Du kannst klicken, um einzelne Punkte zu erstellen, die durch gerade Linien verbunden sind, oder einfach klicken und ziehen, um deine eigene Auswahl zu zeichnen.
 
-Das Werkzeug funktioniert hervorragend, wenn es in einem sehr beiläufigen Kontext verwendet wird, z. B. beim Ausfüllen eines geneigten Felds oder beim Zeichnen einer groben Auswahl um ein klar definiertes Motiv. Der Nachteil ist jedoch, dass ihm die Präzision fehlt, die Sie von einigen der anderen Werkzeuge erhalten.
+Das Werkzeug funktioniert hervorragend, wenn es in einem sehr beiläufigen Kontext verwendet wird, z. B. beim Ausfüllen eines geneigten Felds oder beim Zeichnen einer groben Auswahl um ein klar definiertes Motiv. Der Nachteil ist jedoch, dass ihm die Präzision fehlt, die du von einigen der anderen Werkzeuge erhalten.
 
 ## Schere
-Das Scissors Select Tool funktioniert ähnlich wie das Free Select Tool, nur dass es etwas intuitiver ist. Während Sie klicken, um Ihre Punkte zu erstellen, versucht es zu erraten, wo sich die Ränder Ihres Motivs befinden. Wenn Sie mit dem Erstellen Ihrer Auswahl fertig sind, können Sie zurückgehen und die Position Ihrer Punkte für mehr Präzision manuell anpassen.
+Das Scissors Select Tool funktioniert ähnlich wie das Free Select Tool, nur dass es etwas intuitiver ist. Während du klickst, um deine Punkte zu erstellen, versucht es zu erraten, wo sich die Ränder deines Motivs befinden. Wenn du mit dem Erstellen deiner Auswahl fertig sind, kannst du zurückgehen und die Position deiner Punkte für mehr Präzision manuell anpassen.
 
-Wie Sie sich vorstellen können, ist das Tool nicht immer perfekt, wenn es darum geht, die Grenzen Ihres Motivs einzuschätzen, aber es ist großartig, wenn Sie nur sehr schnell eine rudimentäre Auswahl benötigen.
+Wie du dir vorstellen kannst, ist das Tool nicht immer perfekt, wenn es darum geht, die Grenzen deines Motivs einzuschätzen, aber es ist großartig, wenn du nur sehr schnell eine rudimentäre Auswahl benötigst.
 
 ## Vordergrund
-Das Vordergrundauswahl-Werkzeug ist eine wirklich fortschrittliche und intuitive Möglichkeit, eine Auswahl um ein Motiv in Ihrem Foto zu erstellen, das nicht leicht durch harte Kanten und kontrastierende Farben definiert werden kann. Ein gutes Beispiel hierfür wäre das Zuschneiden von Haarsträhnen. Das Tool ermöglicht es Ihnen, einen sehr rudimentären Umriss um Ihr Motiv zu malen, und dann wird es seine Magie entfalten, indem es schätzt, wo die Auswahl generiert werden soll.
+Das Vordergrundauswahl-Werkzeug ist eine wirklich fortschrittliche und intuitive Möglichkeit, eine Auswahl um ein Motiv in deinem Foto zu erstellen, das nicht leicht durch harte Kanten und kontrastierende Farben definiert werden kann. Ein gutes Beispiel hierfür wäre das Zuschneiden von Haarsträhnen. Das Tool ermöglicht es dir, einen sehr rudimentären Umriss um Ihr Motiv zu malen, und dann wird es seine Magie entfalten, indem es schätzt, wo die Auswahl generiert werden soll.
 
-Der verwendete Algorithmus ist nicht immer perfekt, aber Sie können eine nahezu perfekte Auswahl erhalten, indem Sie die Werkzeugeinstellungen entsprechend Ihrem Bild anpassen und in den Bereichen, die Sie ausfüllen, etwas präziser vorgehen.
+Der verwendete Algorithmus ist nicht immer perfekt, aber du kannst eine nahezu perfekte Auswahl erhalten, indem du die Werkzeugeinstellungen entsprechend deinem Bild anpassen und in den Bereichen, die du ausfüllen, etwas präziser vorgehen.
 
 ## Unscharf
-Mit dem Fuzzy-Auswahl-Tool können Sie eine Auswahl auf lokalisierten Bereichen Ihrer Leinwand erstellen, basierend darauf, wie ähnlich die nahe gelegenen Pixel sein können. Wenn Sie auf Ihre Leinwand klicken, wird die zu erstellende Auswahl angezeigt. Sie können den Schwellenwert erhöhen, indem Sie ihn nach unten ziehen, oder ihn verringern, indem Sie ihn nach oben ziehen.
+Mit dem Fuzzy-Auswahl-Tool kannst du eine Auswahl auf lokalisierten Bereichen deiner Leinwand erstellen, basierend darauf, wie ähnlich die nahe gelegenen Pixel sein können. Wenn du auf deine Leinwand klickst, wird die zu erstellende Auswahl angezeigt. Du kannst den Schwellenwert erhöhen, indem du ihn nach unten ziehst, oder ihn verringern, indem du ihn nach oben ziehst.
 
-Die Funktion „Maske zeichnen“ in den Werkzeugeinstellungen ermöglicht das Anzeigen einer farbigen Maske innerhalb Ihrer Auswahl, damit Sie eine bessere Vorstellung davon bekommen, was erstellt wird.
+Die Funktion „Maske zeichnen“ in den Werkzeugeinstellungen ermöglicht das Anzeigen einer farbigen Maske innerhalb deiner Auswahl, damit du eine bessere Vorstellung davon bekommen, was erstellt wird.
 
 Ich habe festgestellt, dass das Tool sehr nützlich ist, um Motive aus Fotos zuzuschneiden, wenn sie sich auf einem Hintergrund mit Farbverlauf befinden, wie zum Beispiel einem Sonnenuntergang.
 
 ## Wählen Sie nach Farbe
-Das Werkzeug „Nach Farbe auswählen“ ähnelt dem Werkzeug „Fuzzy-Auswahl“, nur dass Sie damit eine Auswahl basierend auf einer bestimmten Farbe erstellen können. Sie können den Schwellenwert auch erhöhen, um verschiedene Anteile dieser Farbe einzubeziehen.
+Das Werkzeug „Nach Farbe auswählen“ ähnelt dem Werkzeug „Fuzzy-Auswahl“, nur dass du damit eine Auswahl basierend auf einer bestimmten Farbe erstellen können. Du kannst den Schwellenwert auch erhöhen, um verschiedene Anteile dieser Farbe einzubeziehen.
 
-Das Tool kann sehr nützlich sein, wenn Sie die Farben bestimmter Bereiche Ihrer Fotos ändern und den Rest unverändert lassen möchten.
+Das Tool kann sehr nützlich sein, wenn Sie die Farben bestimmter Bereiche deiner Fotos ändern und den Rest unverändert lassen möchten.
 
 ## Zuschneiden
-Mit dem Zuschneidewerkzeug können Sie die Grenzen Ihres Bildes ändern. Es ändert oder transformiert jedoch nicht unbedingt das Bild selbst, sondern ermöglicht Ihnen nur, die Ränder Ihres Dokuments neu zu definieren. Das Werkzeug kann verwendet werden, um das gesamte Bild oder nur eine einzelne Ebene Ihrer Wahl zuzuschneiden.
+Mit dem Zuschneidewerkzeug kannst du die Grenzen deines Bildes ändern. Es ändert oder transformiert jedoch nicht unbedingt das Bild selbst, sondern ermöglicht dir nur, die Ränder deines Dokuments neu zu definieren. Das Werkzeug kann verwendet werden, um das gesamte Bild oder nur eine einzelne Ebene deiner Wahl zuzuschneiden.
 
-Das Tool verfügt über verschiedene integrierte Einstellungen, mit denen Sie Ihr Bild basierend auf einer bestimmten Größe oder einem bestimmten Seitenverhältnis zuschneiden können, wenn Sie dies benötigen.
+Das Tool verfügt über verschiedene integrierte Einstellungen, mit denen du dein Bild basierend auf einer bestimmten Größe oder einem bestimmten Seitenverhältnis zuschneiden kannst, wenn du dies benötigst.
 
 ## Drehen
-Mit dem Drehwerkzeug können Sie Bilder und Objekte auf einer einzelnen Ebene um eine Achse drehen, die Sie beliebig platzieren können. Klicken und ziehen Sie einfach auf Ihre Ebene, um sie zu drehen. Wenn Sie die Umschalttaste gedrückt halten, wird es in 15-Grad-Schritten arretiert, falls Sie eine präzisere Drehung benötigen. Sie können die Position des Rotationspunkts auch ändern, indem Sie das abgerundete Fadenkreuz beliebig verschieben. Wenn Sie das Fadenkreuz irgendwann wieder in der Mitte platzieren möchten, klicken Sie einfach auf die Schaltfläche „Zurücksetzen“ in den Werkzeugeinstellungen.
+Mit dem Drehwerkzeug kannst du Bilder und Objekte auf einer einzelnen Ebene um eine Achse drehen, die du beliebig platzieren können. Klicke und ziehe einfach auf deiner Ebene, um sie zu drehen. Wenn Sie die Umschalttaste gedrückt halten, wird es in 15-Grad-Schritten arretiert, falls du eine präzisere Drehung benötigen. Du kannst  die Position des Rotationspunkts auch ändern, indem du das abgerundete Fadenkreuz beliebig verschieben. Wenn du das Fadenkreuz irgendwann wieder in der Mitte platzieren möchten, klicke einfach auf die Schaltfläche „Zurücksetzen“ in den Werkzeugeinstellungen.
 
 ## Skala
-Mit dem Skalierungswerkzeug können Sie die Größe Ihrer Bilder Schicht für Schicht ändern. Klicken Sie einfach auf Ihr Bild und ziehen Sie es, um es zu verkleinern oder zu vergrößern. Mit den Werkzeugeinstellungen können Sie das Seitenverhältnis sperren, falls Sie Ihr Bild skalieren möchten, ohne die Abmessungen zu verzerren.
+Mit dem Skalierungswerkzeug können Sie die Größe deiner Bilder Schicht für Schicht ändern. Klicken Sie einfach auf Ihr Bild und ziehen Sie es, um es zu verkleinern oder zu vergrößern. Mit den Werkzeugeinstellungen kannst du das Seitenverhältnis sperren, falls Sie Ihr Bild skalieren möchten, ohne die Abmessungen zu verzerren.
 
 Das Tool funktioniert nicht nur auf Ebenen. Es funktioniert auch mit Auswahlen, Pfaden und dem gesamten Bild selbst.
 
 ### Scheren
-Mit dem Scherwerkzeug können Sie Ihre Bilder verzerren, indem Sie sie entweder vertikal oder horizontal scheren. Um vertikal zu scheren, klicken und ziehen Sie in einer Auf- und Abbewegung. Um horizontal zu scheren, klicken und ziehen Sie in einer Links- und Rechtsbewegung. Sie können auch mit den Eingabewerten im Werkzeugeinstellungsfeld um einen bestimmten Grad scheren
+Mit dem Scherwerkzeug kannst du deine Bilder verzerren, indem Sie sie entweder vertikal oder horizontal scheren. Um vertikal zu scheren, klicken und ziehen Sie in einer Auf- und Abbewegung. Um horizontal zu scheren, klicken und ziehen Sie in einer Links- und Rechtsbewegung. Sie können auch mit den Eingabewerten im Werkzeugeinstellungsfeld um einen bestimmten Grad scheren
 
 ## Flip
-Das Flip-Tool ist ein einfaches Werkzeug, mit dem Sie Ihre Bilder entweder auf der vertikalen oder horizontalen Achse spiegeln können. Um Ihre Bilder zu spiegeln, klicken Sie einfach darauf. Ob es vertikal oder horizontal gespiegelt wird, wird durch die Einstellung bestimmt, die Sie im Werkzeugeinstellungsmenü auswählen.
+Das Flip-Tool ist ein einfaches Werkzeug, mit dem Sie deine Bilder entweder auf der vertikalen oder horizontalen Achse spiegeln können. Um deine Bilder zu spiegeln, klicken Sie einfach darauf. Ob es vertikal oder horizontal gespiegelt wird, wird durch die Einstellung bestimmt, die Sie im Werkzeugeinstellungsmenü auswählen.
 
-Dies unterscheidet sich vom Drehen Ihrer Bilder darin, dass sie gespiegelt werden, anstatt ihre Ausrichtung zu ändern.
+Dies unterscheidet sich vom Drehen deiner Bilder darin, dass sie gespiegelt werden, anstatt deine Ausrichtung zu ändern.
 
 ## Perspektive
-Mit dem Perspektivenwerkzeug können Sie die Perspektive einer bestimmten Ebene ändern, indem Sie einen der 4 Knoten in jeder Ecke neu positionieren. Sie können jede Ecke einzeln oder als ganze Einheit ändern, indem Sie die Option „Um die Mitte herum“ in den Werkzeugeinstellungen aktivieren. Sie müssen die Knoten in den Ecken jedoch nicht verwenden. Sie können irgendwo auf die Ebene klicken und die Perspektive des Bildes relativ zu Ihrem Auswahlpunkt ändern.
+Mit dem Perspektivenwerkzeug kannst du die Perspektive einer bestimmten Ebene ändern, indem Sie einen der 4 Knoten in jeder Ecke neu positionieren. Sie können jede Ecke einzeln oder als ganze Einheit ändern, indem Sie die Option „Um die Mitte herum“ in den Werkzeugeinstellungen aktivieren. Sie müssen die Knoten in den Ecken jedoch nicht verwenden. Sie können irgendwo auf die Ebene klicken und die Perspektive des Bildes relativ zu deinem Auswahlpunkt ändern.
 
 ## Einheitliche Transformation
 Das Unified Transform Tool bietet jede Menge Nützlichkeit und Vielseitigkeit, da es im Wesentlichen eine Vielzahl von Tools in einem kombiniert. Sie können es verwenden, um Bilder auf einer bestimmten Ebene zu verschieben, zu skalieren, zu scheren, zu drehen und die Perspektive zu ändern.
@@ -69,17 +70,17 @@ Das Unified Transform Tool bietet jede Menge Nützlichkeit und Vielseitigkeit, d
 Sie können alle diese Anpassungen auf einmal auf einer einzigen Vorschauebene vornehmen und sie dann abschließen, wenn Sie fertig sind. Sie können es auch auf die vorherigen Einstellungen zurücksetzen, wenn Sie etwas benötigen
 
 ## 3D-Transformation
-Das 3D-Transformationswerkzeug erzeugt einen ähnlichen Effekt wie das Perspektivenwerkzeug, nur dass es auf ein Seitenverhältnis fixiert ist, das hilft, ein realistisches 3D-Aussehen beizubehalten. Wenn Sie das Werkzeug verwenden, können Sie die Einstellung der Z-Achse jederzeit aktivieren, um die Drehung der Ebene zu ändern, während Sie daran arbeiten.
+Das 3D-Transformationswerkzeug erzeugt einen ähnlichen Effekt wie das Perspektivenwerkzeug, nur dass es auf ein Seitenverhältnis fixiert ist, das hilft, ein realistisches 3D-Aussehen beizubehalten. Wenn Sie das Werkzeug verwenden, kannst du die Einstellung der Z-Achse jederzeit aktivieren, um die Drehung der Ebene zu ändern, während Sie daran arbeiten.
 
 ## Transformieren behandeln	
-Mit dem Griff-Transformationswerkzeug können Sie Ihr Bild mit etwas mehr freier Handsteuerung als mit den anderen Werkzeugen umwandeln. Klicken Sie einfach auf Ihr Bild, um einen Punkt hinzuzufügen. Jetzt können Sie Ihr Bild um diesen Punkt skalieren und drehen. Wenn Sie einen zweiten Punkt hinzufügen, können Sie Ihr Bild basierend auf den Positionen dieser beiden Punkte scheren, und das Hinzufügen eines dritten und vierten Punkts ermöglicht es Ihnen, die Perspektive Ihres Bilds basierend auf der Position dieser Punkte zu ändern.
+Mit dem Griff-Transformationswerkzeug kannst du Ihr Bild mit etwas mehr freier Handsteuerung als mit den anderen Werkzeugen umwandeln. Klicken Sie einfach auf Ihr Bild, um einen Punkt hinzuzufügen. Jetzt kannst du Ihr Bild um diesen Punkt skalieren und drehen. Wenn Sie einen zweiten Punkt hinzufügen, kannst du Ihr Bild basierend auf den Positionen dieser beiden Punkte scheren, und das Hinzufügen eines dritten und vierten Punkts ermöglicht es Ihnen, die Perspektive deines Bilds basierend auf der Position dieser Punkte zu ändern.
 
-Sie können Ihre Zugriffspunkte jederzeit neu positionieren, indem Sie die Umschalttaste gedrückt halten und sie anklicken und ziehen, oder Sie können sie löschen, indem Sie die Strg-Taste gedrückt halten und darauf klicken.
+Sie können deine Zugriffspunkte jederzeit neu positionieren, indem Sie die Umschalttaste gedrückt halten und sie anklicken und ziehen, oder Sie kannst du löschen, indem Sie die Strg-Taste gedrückt halten und darauf klicken.
  
 
 
 ## Warp-Transformation
-Das Warp Transform Tool funktioniert ähnlich wie ein Pinsel, nur dass Sie die Pixel Ihres Bildes verschieben, anstatt etwas hinzuzufügen. Wie Sie sehen können, können Sie Ihr Bild verzerren, indem Sie diese Pixel verschieben.
+Das Warp Transform Tool funktioniert ähnlich wie ein Pinsel, nur dass Sie die Pixel deines Bildes verschieben, anstatt etwas hinzuzufügen. Wie Sie sehen können, kannst du Ihr Bild verzerren, indem Sie diese Pixel verschieben.
 
 Es gibt verschiedene Methoden, um Ihr Bild zu verzerren. Die Bewegungsfunktion ist die Standardeinstellung, aber es gibt auch Einstellungen, mit denen Sie sich verziehen können, indem Sie wachsen, schrumpfen und wirbeln.
 
@@ -87,13 +88,13 @@ Es gibt verschiedene Methoden, um Ihr Bild zu verzerren. Die Bewegungsfunktion i
 Mit dem Käfig-Transformationswerkzeug können Sie ein Bild basierend auf einzelnen Punkten, die Sie manuell um dieses Bild herum platzieren, verziehen und verzerren. Durch Klicken und Ziehen dieser Punkte wird das Bild so verzerrt, dass es beim Ändern in den Begrenzungsrahmen passt.
 
 ## Eimer füllen
-Das Füllwerkzeug wird verwendet, um bestimmte Bereiche Ihres Bildes mit einer Füllung oder einem Muster Ihrer Wahl zu füllen. Sie können wählen, ob Sie ganze Ebenen, Auswahlen oder nur Bereiche füllen möchten, die dieselbe Farbe enthalten, auf die Sie geklickt haben. Sie können den Schwellenwert auch so anpassen, dass er benachbarte Farben enthält, die möglicherweise einen ähnlichen, aber leicht unterschiedlichen Farbton verwenden.
+Das Füllwerkzeug wird verwendet, um bestimmte Bereiche deines Bildes mit einer Füllung oder einem Muster deiner Wahl zu füllen. Sie können wählen, ob Sie ganze Ebenen, Auswahlen oder nur Bereiche füllen möchten, die dieselbe Farbe enthalten, auf die Sie geklickt haben. Sie können den Schwellenwert auch so anpassen, dass er benachbarte Farben enthält, die möglicherweise einen ähnlichen, aber leicht unterschiedlichen Farbton verwenden.
 
 ## Gradient
-Mit dem Verlaufswerkzeug können Sie eine Auswahl mit einem Verlauf oder einem Übergang zwischen zwei verschiedenen Farben Ihrer Wahl füllen. Sie können Ihren Farbverlauf auf Ihren ausgewählten Vorder- und Hintergrundfarben basieren oder aus einer Vielzahl von Voreinstellungen wählen. Mit dem Werkzeug können Sie lineare Farbverläufe erstellen, die einem geraden Pfad folgen, radiale Farbverläufe, die einem abgerundeten Pfad folgen, und mehr
+Mit dem Verlaufswerkzeug können Sie eine Auswahl mit einem Verlauf oder einem Übergang zwischen zwei verschiedenen Farben deiner Wahl füllen. Du kannst deinen Farbverlauf auf Ihren ausgewählten Vorder- und Hintergrundfarben basieren oder aus einer Vielzahl von Voreinstellungen wählen. Mit dem Werkzeug kannst du lineare Farbverläufe erstellen, die einem geraden Pfad folgen, radiale Farbverläufe, die einem abgerundeten Pfad folgen, und mehr
 
 ## Pinsel
-Der Pinsel wird verwendet, um sanfte Striche in einer Farbe oder einem Muster Ihrer Wahl auf Ihre Bilder zu malen. Es gibt eine Vielzahl von Pinseln in verschiedenen Formen zur Auswahl, zusammen mit einer Fülle von Einstellungen, die bestimmen, wie sich der Pinsel verhält, wenn Sie damit malen. Sie können auch die Härte, Deckkraft, den Abstand und sogar die Kraft sowie verschiedene andere Einstellungen anpassen.
+Der Pinsel wird verwendet, um sanfte Striche in einer Farbe oder einem Muster deiner Wahl auf deine Bilder zu malen. Es gibt eine Vielzahl von Pinseln in verschiedenen Formen zur Auswahl, zusammen mit einer Fülle von Einstellungen, die bestimmen, wie sich der Pinsel verhält, wenn Sie damit malen. Sie können auch die Härte, Deckkraft, den Abstand und sogar die Kraft sowie verschiedene andere Einstellungen anpassen.
 
 ## Bleistift
 Das Bleistift-Werkzeug funktioniert ähnlich wie der Pinsel. Es ermöglicht Ihnen, mit einer Vielzahl von Formen und Verhaltensweisen manuell auf Ihr Bild zu zeichnen. Es hat auch viele der gleichen Einstellungen. Der einzige Unterschied besteht darin, dass kein Anti-Aliasing verwendet wird, was bedeutet, dass Sie solide, harte Kanten ohne Weichheit oder Auslaufen erhalten, unabhängig von Ihrem gewählten Pinsel oder Ihren Einstellungen.
