@@ -76,7 +76,8 @@ Diese Art von Programmen kann durch den eingebauten (Skript-Fu) sowie über eine
 
 Die unterstützung das von Ruby geschrieben GIMP-Skripten befindet soch noch in einem experimentellen Stadium.
 
-Skripte und Plug-ins für GIMP können interaktiv ausgeführt werden, das heisst ohne Interaktion eines Benutzers. Wiederkehrende (auch komplexe) Bildbearbeitungsvorgänge können so automatisiert werden. Grafiken für eine Webseite können beispielsweise direkt über Skripte erzeugt werden, man kann bei einer grossen Anzahl an Bilddateien eine Farbkorrektur vornehmen oder das Grafikformat ändern. Hinweise zu Verwendung solcher Skripte finden sich GIMP-Wikibook.
+Skripte und Plug-ins für GIMP können interaktiv ausgeführt werden, das heisst ohne Interaktion eines Benutzers. Wiederkehrende (auch komplexe) Bildbearbeitungsvorgänge können so automatisiert werden. 
+Grafiken für eine Webseite können beispielsweise direkt über Skripte erzeugt werden, man kann bei einer grossen Anzahl an Bilddateien eine Farbkorrektur vornehmen oder das Grafikformat ändern. Hinweise zu Verwendung solcher Skripte finden sich GIMP-Wikibook.
 
 ## Gimp ML
 
