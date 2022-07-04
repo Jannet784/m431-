@@ -2,9 +2,9 @@
 # Inhaltsverzeichnis
 
 * [I IPERKA](Einführung.md)
-* [P IPERKA](Geschichte.md)
+* [P IPERKA](Nutzwertanalyse.xlsx)
 * [E IPERKA](Unterschiede.md)
-* [R IPERKA](Nutzwertanalyse.xlsx)
+* [R IPERKA](Geschichte.md)
 * [K IPERKA](...md)
 * [A IPERKA](...md)
 
