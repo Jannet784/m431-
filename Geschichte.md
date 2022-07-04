@@ -40,7 +40,7 @@ Mit der Version 2.6 das am 1. Oktober 2008 erschien wurde der Umstieg vom bisher
 Die aufwendige Migration auf GEGL – überwiegend durch nur eine Person umgesetzt – blockierte über viele Jahre die Entwicklung und war der Hauptgrund für die langen Entwicklungsdauern von Version 2.8 auf 2.10 (6 Jahre).
 
 
-# Funktionsumfang
+# 2 Funktionsumfang
 
 ### Überblick
 
@@ -85,7 +85,7 @@ GimpML ist ein Plugin für Filter mit Maschinellem Lernen für GIMP 2.10.
 * Maschinelles Lernen ist ein Oberbegriff für die „künstliche“ Generierung von Wissen aus Erfahrung
 
 
-# Eingestellte Modifikationen
+# 3 Eingestellte Modifikationen
 
 #### CinePaint
 
