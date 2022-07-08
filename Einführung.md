@@ -11,7 +11,7 @@ Eine Schnittstelle für Skripte erlaubt es, einfache wie komplexe Probleme durch
 
 
 
-|     Version     |     Erscheinungsdatum     |     Anmerkung     |
+|     Version     |     Erscheinungsdatum     |     Anmerkung     |.
 | --------------- | ------------------------- | ----------------- |
 |     n.n         |     21. Nov. 1995         | Erste veröffentlichte Testversion|
 |     0.54        |     Jan. 1996             | Neue Speicherverwaltung, mit der das Laden großer Bilddateien kein Problem mehr ist. |
