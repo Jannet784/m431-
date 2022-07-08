@@ -16,7 +16,7 @@ Nach veröffentlichung von Ubuntu 9.10 beschlossen, in Ubuntu 10.04 GIMP nicht m
 
 ### Versionen
 
-|     Version     |     Erscheinungsdatum     |     Anmerkung     |.
+|     Version     |     Erscheinungsdatum     |     Anmerkung     |
 | --------------- | ------------------------- | ----------------- |
 |     n.n         |     21. Nov. 1995         | Erste veröffentlichte Testversion|
 |     0.54        |     Jan. 1996             | Neue Speicherverwaltung, mit der das Laden großer Bilddateien kein Problem mehr ist. |
