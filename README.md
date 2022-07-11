@@ -2,8 +2,7 @@
 # Inhaltsverzeichnis
 
 * [Information IPERKA](Einführung.md)
-* [Planen IPERKA][Nutzwertanalyse (4).xlsx](https://github.com/Jannet784/m431-/files/9083510/Nutzwertanalyse.4.xlsx)
-()
+*[Planung IPERKA](Einführung.md)
 * [Entscheidung IPERKA](Unterschiede.md)
 * [Realisieren IPERKA](Geschichte.md)
 * [Kontrolle IPERKA](...md)
