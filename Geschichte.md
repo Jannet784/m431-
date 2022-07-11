@@ -264,3 +264,60 @@ Die Statusleiste zeigt auch den Grad Ihrer Linie relativ zur horizontalen oder v
 ## Zoomen
 Schließlich wird das Zoom-Werkzeug zum Vergrößern und Verkleinern Ihres Bildes verwendet. Sie können hineinzoomen, um feine Details zu sehen, oder herauszoomen, um zu sehen, wie Ihr Design in einem verkleinerten Kontext aussehen würde. Sie können jederzeit 1 auf der Tastatur drücken, um wieder auf 100 % zu verkleinern.
 
+# 14 Angewendete Tools in Photoshop
+
+## Magnetisches Lasso Tool
+
+Heftet sich an den Rand eines ungenau ausgewählten Objektes.
+
+## Schnellauswahl Tool
+
+Dieses Tool lässt dich das Objekt einfach auswählen während der Benutzung des Pinsel-Tools. Für eine präzisere Auswahl kann man in der Optionen-Leiste "Auto Enhance" einschalten.
+
+## Zauberstab Tool
+
+Wähle mit dem Zauberstab einfach alle ähnlichen Farben mit einem Klick aus!
+
+## Pipetten-Tool
+
+Lässt dich eine bestimmte Farbe im Bild herauspicken, um mit dieser danach weiterzuarbeiten.
+
+## Freistellungs-Tool
+
+Schneide ganz einfach dein Bild zurecht und entferne somit ungewollte Teile des Bildes.
+
+## Bereichsreparatur-Tool
+
+Das Bereichsreparatur-Tool wird normalerweise für kleine Bereiche verwendet, welche kleine Fehler und Unschönheiten vorweisen.
+
+## Healing Brush-Tool
+
+Das Healing Brush-Tool wird für grosse Beriche verwendet, auf welchen beispielsweise unerwünschte Personen zu sehen sind und entfernt werden wollen.
+
+## Radiergummi Tool
+
+Mit dem Radiergummi kannst du Pixel dauerhaft löschen.
+
+## Unschärfe Tool
+
+Benutze das Unschärfe Tool um ein Objekt/eine Fläche im Bild unscharf zu machen.
+
+## Schärfen Tool
+
+Schärft ein Objekt oder eine Fläche im Bild
+
+## Burn Tool
+
+Das Burn Tool lässt dich Flächen schwärzen und Schatten von Objekten generieren.
+
+## Dodge Tool
+
+Mit dem Dodge Tool kannst du einzelne Flächen aufhellen. Es ist sehr gut einsetzbar auch für Licht-Effekte in Bildern.
+
+## Zoom Tool
+
+Damit kannst du die Ansicht im Bild vergrössern und verkleinern. Zum Vergrössern musst du ganz einfach klicken, für das Verkleinern drückst du zusätzlich noch die ALT-Taste.
+
+## Hand Tool
+
+Mit diesem Werkzeug kannst du ein Bild, ein Layer oder eine ausgewählte Fläche anklicken und auf dem Bildschirm umherziehen.
