@@ -2,7 +2,7 @@
 # Inhaltsverzeichnis
 
 * [Information IPERKA](Einführung.md)
-* [Planen IPERKA](Nutzwertanalyse (4).md)
+* [Planen IPERKA](Nutzwertanalyse (4).xlsx)
 * [Entscheidung IPERKA](Unterschiede.md)
 * [Realisieren IPERKA](Geschichte.md)
 * [Kontrolle IPERKA](...md)
