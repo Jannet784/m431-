@@ -2,7 +2,7 @@
 # Inhaltsverzeichnis
 
 * [Information IPERKA](Einführung.md)
-*[Planung IPERKA](Einführung.md)
+*[Planung IPERKA](Planung.md)
 * [Entscheidung IPERKA](Unterschiede.md)
 * [Realisieren IPERKA](Geschichte.md)
 * [Kontrolle IPERKA](...md)
