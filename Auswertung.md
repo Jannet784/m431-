@@ -19,3 +19,15 @@ Die Aufgaben waren am Anfang beiden klar, aber gegen den Schluss verloren wir un
 * Kommunikation verbessern
 * Zeit im Auge behalten
 * Kompromisse finden
+
+## Woran müssen wir an uns selbst arbeiten?
+
+### Sam
+
+* Nicht mehr so sehr aufschieben --> Stress vermeiden
+* Besser versuchen zu kommunizieren
+* Bessere Konzentration versuchen aufzubauen.
+
+### Jannet
+
+*
