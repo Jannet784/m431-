@@ -5,8 +5,8 @@
 * [Planung IPERKA](Planung.md)
 * [Entscheidung IPERKA](Unterschiede.md)
 * [Realisieren IPERKA](Geschichte.md)
-* [Kontrolle IPERKA](...md)
-* [Auswertung IPERKA](...md)
+* [Kontrolle IPERKA](Kontrolle.md)
+* [Auswertung IPERKA](Auswertung.md)
 
 
 
