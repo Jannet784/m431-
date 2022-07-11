@@ -30,4 +30,6 @@ Die Aufgaben waren am Anfang beiden klar, aber gegen den Schluss verloren wir un
 
 ### Jannet
 
-*
+* Kommunikation
+* Zeit einhalten
+
